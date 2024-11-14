@@ -59,4 +59,3 @@ This project leverages PyCUDA to accelerate neural network operations, implement
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-5. 
