@@ -30,4 +30,33 @@ This project leverages PyCUDA to accelerate neural network operations, implement
    ```bash
    git https://github.com/Pulakhandam-Amrutha/ANN-CNN-implementation-PyCuda.git
    cd ANN-CNN-implementation-PyCuda
+   ```
+2. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Install PyCUDA if not already installed:
+   ```bash
+   pip install pycuda
+   ```
 
+## Usage
+
+1. Run the Jupyter notebook:
+   ```bash
+   jupyter notebook "ANN and CNN-implementation-PyCuda.ipynb"
+   ```
+2. Execute the cells sequentially to install dependencies, generate data, and run ANN and CNN models on the GPU.
+
+## Dependencies
+
+- Python 3.x
+- PyCUDA
+- NumPy
+- Scikit-learn
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+5. 
